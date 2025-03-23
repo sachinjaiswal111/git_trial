@@ -1,3 +1,6 @@
 this is file one for git course
 
 add more content to file one
+
+Add another marketing section added to file one.
+ this another thing
